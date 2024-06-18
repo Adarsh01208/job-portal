@@ -25,6 +25,7 @@ The Job Portal, built on Next.js 14, is a comprehensive platform for job seekers
 - Clerk
 - Supabase
 - MongoDB
+- toastify
 
 ## Features <a name="features"></a>
 
